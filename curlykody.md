@@ -3,13 +3,14 @@ title: "CURLYKODY"
 permalink: curlykody/
 ---
 # [CurlyKody](https://www.twitch.tv/curlykody)
+![icon](https://static-cdn.jtvnw.net/jtv_user_pictures/9feaa6a3-3c62-49b3-ba01-e6623bc6bb98-profile_image-70x70.png)
 - Streamer uses a husky 3D Model with a bandana on his neck, instead of a traditional webcam
 - goes by *Kody/Kodykins*.
 - Streamer often uses toilet humor and acts in a cringy manner to be entertaining.
   - This makes him oddly endearing.
 - Streamer calls those who follow part of "The Curly Crew"
   - *"Welcome to the curly crew! You are now a member of the Curly Crew!"*
-
+- Timezone: Atlantic Time (UTC-4)
 ## Notable Games
 - Morrowind
 - Cyberpunk 2077
@@ -49,6 +50,9 @@ Kody makes extensive use of channel points (called Milkbones)
 ## Special Scenes
 - Fireplace: Kody sits in a chair in front of a crackling fireplace to read lore, typically while playing morrorwind. 
 
+## Milestones
+- Achieved 1,000 followers in September 2022
+
 ## PC Specs
 - Intel Core i5-8600k 4.8GHz OC
 - 32GB DDR4-3200MHz
@@ -72,3 +76,4 @@ Kody makes extensive use of channel points (called Milkbones)
 - [ ] Find out what 3D Model he uses
 - [ ] Find out when he started streaming.
 - [ ] when did the water bucket premier?
+- [ ] Find out when he got 1K followers
