@@ -9,7 +9,7 @@ Whiskey is notable for his high energy, loud exclaimations, and frequent interac
 ## History
 - began streaming around 2018
 - Became a Twitch Partner on 2019/9/18[^1]
--- Played Night in the Woods for his first partner stream[^2]
+  - Played Night in the Woods for his first partner stream[^2]
 
 
 ## Mods
@@ -73,5 +73,5 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - [Donation Link](https://streamlabs.com/whiskeyding0/tip)
 - [TikTok](https://www.tiktok.com/@whiskeyding0)
 
-[^1]: https://twitter.com/Whiskey_Dingo/status/1174473493217513473
-[^2]: https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761
+[^1]: (https://twitter.com/Whiskey_Dingo/status/1174473493217513473)
+[^2]: (https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761)
