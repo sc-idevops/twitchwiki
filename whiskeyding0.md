@@ -1,3 +1,9 @@
+---
+layout: page
+title: "WHISKEY DINGO"
+permalink: whiskeyding0/
+---
+
 # Whiskey Dingo
 streamer url= https://www.twitch.tv/whiskeyding0
 streamer is notable for his high energy, loud exclaimations, and frequent interaction with chat.
