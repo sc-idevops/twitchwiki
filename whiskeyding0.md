@@ -3,12 +3,14 @@ title: "WHISKEY DINGO"
 permalink: whiskeyding0/
 ---
 
-# Whiskey Dingo
-streamer url= https://www.twitch.tv/whiskeyding0
-streamer is notable for his high energy, loud exclaimations, and frequent interaction with chat.
+# [Whiskey Dingo](https://www.tiktok.com/@whiskeyding0)
+Whiskey is notable for his high energy, loud exclaimations, and frequent interaction with chat.
 
 ## History
-began streaming around 2018
+- began streaming around 2018
+- Became a Twitch Partner on 2019/9/18[^1]
+-- Played Night in the Woods for his first partner stream[^2]
+
 
 ## Mods
 - Cyrcle
@@ -61,3 +63,15 @@ Whiskey's channel makes heavy use of channel points (called cheddar) and redeems
 
 Chat is often encouraged to "gamba" their cheddar on predictions, often betting if Whiskey will pass/fail at a level of the game he's currently playing. 
 
+## Notable Stream Events
+- 2022/9/15 Hosting Family Feud Stream
+
+## External Links
+- [Discord](https://discord.com/invite/dingoden)
+- [Throne Wishlist](https://throne.me/u/whiskeyding0)
+- [Twitter](https://twitter.com/Whiskey_Dingo)
+- [Donation Link](https://streamlabs.com/whiskeyding0/tip)
+- [TikTok](https://www.tiktok.com/@whiskeyding0)
+
+[^1]: https://twitter.com/Whiskey_Dingo/status/1174473493217513473
+[^2]: https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761
