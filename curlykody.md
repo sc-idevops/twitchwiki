@@ -2,8 +2,9 @@
 title: "CURLYKODY"
 permalink: curlykody/
 ---
-# CurlyKody
-- Streamer uses a husky 3D Model instead of a webcam and goes by *Kody/Kodykins*.
+# [CurlyKody](https://www.twitch.tv/curlykody)
+- Streamer uses a husky 3D Model with a bandana on his neck, instead of a traditional webcam
+- goes by *Kody/Kodykins*.
 - Streamer often uses toilet humor and acts in a cringy manner to be entertaining.
   - This makes him oddly endearing.
 - Streamer calls those who follow part of "The Curly Crew"
@@ -26,6 +27,7 @@ permalink: curlykody/
 ## Redeems
 Kody makes extensive use of channel points (called Milkbones)
 - "Potion of Restore Urine"(100pts) This makes Kody take a drink of water, which he often does audibly
+  - Further refinement was added incorporating animated water raining down on him before a bucket lands on his head.
 - Sounds: GORP (100pts) plays a gorp sound on the stream with an overlay
 - Sounds: BONK (100pts) a bonk sound is played and a 3D Bat hits Kody's 3D Model
   - If several of these are redeemed in a row (around 10), it will make Kody's 3D model ragdoll and his legs flail into the air. Chat loves to see this pointing out his toebeans.
@@ -43,6 +45,9 @@ Kody makes extensive use of channel points (called Milkbones)
 - Kody's made up vocabulary is quite extensive...
   - Kody often refers to cursed things as being a "creech" which is sort for a creature
   - For unknown reasons he makes riffs on "Agitha Christie"'s name. (e.g. SOMETHING-itha Christie)
+
+## Special Scenes
+- Fireplace: Kody sits in a chair in front of a crackling fireplace to read lore, typically while playing morrorwind. 
 
 ## PC Specs
 - Intel Core i5-8600k 4.8GHz OC
@@ -62,3 +67,8 @@ Kody makes extensive use of channel points (called Milkbones)
 - [Donation Link](https://streamelements.com/curlykody/tip)
 
 [^1]: (https://discord.com/channels/970368458984415293/970935118527098890/1009242456132427776)
+
+# ToDo:
+- [ ] Find out what 3D Model he uses
+- [ ] Find out when he started streaming.
+- [ ] when did the water bucket premier?
