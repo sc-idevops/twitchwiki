@@ -34,8 +34,10 @@ began streaming around 2018
 - I/O Ports: HDMI; 6 USB 3.1 Ports; 4 USB 2.0 Ports; 1 PS/2; LAN Port; DisplayPort; DVI; 6 Audio Jacks
 
 ## In-Jokes
+- Whiskey uses extensive emotes from these sources, several of which are in-jokes for the stream.
 - Whiskey often tells views the rules of the stream, things he encourages chat not to do but they inevitably disobey. the rules are:
--- 
+-- Don't use the "V word" in chat! (vore)
+-- No KEKW-ing in the chat!
 
 ## Notable Games & Preferred Genres
 Loves to play horror games
@@ -53,3 +55,4 @@ Whiskey's channel makes heavy use of channel points (called cheddar) and redeems
 - "SOAP" this redeem will challenge whiskey to go for 5 minutes without uttering a curse word. If he fails the soap challenge, he has to gift a tier 1 gift subscription to a random viewer of the channel.
 
 Chat is often encouraged to "gamba" their cheddar on predictions, often betting if Whiskey will pass/fail at a level of the game he's currently playing. 
+
