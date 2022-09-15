@@ -4,7 +4,7 @@ permalink: curlykody/
 ---
 # CurlyKody
 - Streamer uses a husky 3D Model instead of a webcam and goes by *Kody/Kodykins*.
-- Streamer often makes jokes that are more crude/gross and acts in a cringy manner to be entertaining. 
+- Streamer often uses toilet humor and acts in a cringy manner to be entertaining.
   - This makes him oddly endearing.
 - Streamer calls those who follow part of "The Curly Crew"
   - *"Welcome to the curly crew! You are now a member of the Curly Crew!"*
