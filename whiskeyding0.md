@@ -43,8 +43,12 @@ Whiskey is notable for his high energy, loud exclaimations, and frequent interac
 ## In-Jokes
 - Whiskey uses extensive emotes from these sources, several of which are in-jokes for the stream.
 - Whiskey often tells views the rules of the stream, things he encourages chat not to do but they inevitably disobey. the rules are:
--- Don't use the "V word" in chat! (vore)
--- No KEKW-ing in the chat!
+  1. Don't use the "V word" in chat! (vore)
+  2. No KEKW-ing in the chat!
+  3. No "Smiles" in the chat! (referencing an emote)
+  4. Do *NOT* call Whiskey Cute! ...he's handsome.
+- Whiskey often featured a person from chat on a throne during his stream. The person was selected by a poll at the start of the stream, the person who added on the most channel points to their vote. They would be made VIP in the channel for the month and featured on the throne for the rest of the stream. 
+  - Every stream whiskey will mess up on switching scenes to just chatting and instead plays the ALL HAIL sequence.
 
 ## Notable Games & Preferred Genres
 Loves to play horror games
@@ -60,7 +64,7 @@ Whiskey's channel makes heavy use of channel points (called cheddar) and redeems
 - annoy whiskey with confetti (100pts)
 - Tornado, which whiskey runs away from before getting sucked into it, spun around, and thrown violently against the screen (1000pts)
 - "SOAP" this redeem will challenge whiskey to go for 5 minutes without uttering a curse word. If he fails the soap challenge, he has to gift a tier 1 gift subscription to a random viewer of the channel.
-
+- "Display Profile Picture"(1,000,000pts) should a chat member earn enough points to redeem this, they will have their profile picture featured on whiskey's just chatting scene for all to see!
 Chat is often encouraged to "gamba" their cheddar on predictions, often betting if Whiskey will pass/fail at a level of the game he's currently playing. 
 
 ## Notable Stream Events
