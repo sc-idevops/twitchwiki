@@ -1,6 +1,8 @@
+---
 layout: page
 title: "WHISKEY DINGO"
-permalink: /whiskeyding0/
+permalink: whiskeyding0/
+---
 
 # Whiskey Dingo
 streamer url= https://www.twitch.tv/whiskeyding0
