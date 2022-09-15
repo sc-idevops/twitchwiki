@@ -5,40 +5,12 @@ permalink: whiskeyding0/
 
 # [Whiskey Dingo](https://www.tiktok.com/@whiskeyding0)
 Whiskey is notable for his high energy, loud exclaimations, and frequent interaction with chat.
+- Timezone: Central Time (UTC-6)
 
 ## History
 - began streaming around 2018
 - Became a Twitch Partner on 2019/9/18[^1]
   - Played Night in the Woods for his first partner stream[^2]
-
-
-## Mods
-- Cyrcle
-- Max9183
-- Mithswaw
-- Rayneblue
-- Snazzythefox
-- Wv_shep
-- Vnibbles
-
-## PC Specs
-- Operating System: Windows 10 Home; 64-Bit
-
-- Processor & Memory: Intel Core i7-8700K 6-Core Processor (3.7GHz) with Max Turbo Frequency up to 4.3GHz; 16GB Memory
-
-- Storage & Optical Drive: 1TB Hard Drive; 16GB Intel Optane Memory Accelerator; No optical drive included
-
-- Design: Cougar Black Mid- Tower Gaming Case; Dual Tempered Glass Side Panel; Measures 20.5" x 8.2" x 22.2"; Weighs 32 lbs.
-
-- Video/Graphics: NVIDIA GeForce GTX 1080 with 8GB dedicated video memory
-
-- Audio: Integrated Sound Card
-
-- Includes: Liquid Cooling; Custom RGB Lighting; RGB 7 Color Gaming Keyboard & USB Gaming Mouse
-
-- Connectivity: 10/100/1000 Ethernet; 802.11ac WiFi
-
-- I/O Ports: HDMI; 6 USB 3.1 Ports; 4 USB 2.0 Ports; 1 PS/2; LAN Port; DisplayPort; DVI; 6 Audio Jacks
 
 ## In-Jokes
 - Whiskey uses extensive emotes from these sources, several of which are in-jokes for the stream.
@@ -69,6 +41,34 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 
 ## Notable Stream Events
 - 2022/9/15 Hosting Family Feud Stream
+
+## Mods
+- Cyrcle
+- Max9183
+- Mithswaw
+- Rayneblue
+- Snazzythefox
+- Wv_shep
+- Vnibbles
+
+## PC Specs
+- Operating System: Windows 10 Home; 64-Bit
+
+- Processor & Memory: Intel Core i7-8700K 6-Core Processor (3.7GHz) with Max Turbo Frequency up to 4.3GHz; 16GB Memory
+
+- Storage & Optical Drive: 1TB Hard Drive; 16GB Intel Optane Memory Accelerator; No optical drive included
+
+- Design: Cougar Black Mid- Tower Gaming Case; Dual Tempered Glass Side Panel; Measures 20.5" x 8.2" x 22.2"; Weighs 32 lbs.
+
+- Video/Graphics: NVIDIA GeForce GTX 1080 with 8GB dedicated video memory
+
+- Audio: Integrated Sound Card
+
+- Includes: Liquid Cooling; Custom RGB Lighting; RGB 7 Color Gaming Keyboard & USB Gaming Mouse
+
+- Connectivity: 10/100/1000 Ethernet; 802.11ac WiFi
+
+- I/O Ports: HDMI; 6 USB 3.1 Ports; 4 USB 2.0 Ports; 1 PS/2; LAN Port; DisplayPort; DVI; 6 Audio Jacks
 
 ## External Links
 - [Discord](https://discord.com/invite/dingoden)
