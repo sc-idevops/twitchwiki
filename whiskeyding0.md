@@ -11,6 +11,10 @@ Whiskey is notable for his high energy, loud exclaimations, and frequent interac
 - began streaming around 2018
 - Became a Twitch Partner on 2019/9/18[^1]
   - Played Night in the Woods for his first partner stream[^2]
+- The intro videos with whiskey's voice mashed up to music was created by [The Rotten Editor](https://www.youtube.com/c/TheRottenEditor/) on Youtube.
+  - The original video was titled "Dingomata" and was released on youtube on 2021/7/27 and can be found [here](https://www.youtube.com/watch?v=yMbSiF-6FBs)
+  - Another video was released by The Rotten Editor on 2021/12/18 titled ["Dingo Shot"](https://www.youtube.com/watch?v=T7nDG-2yqYc)
+  - The original Dingomata was [remastered](https://www.youtube.com/watch?v=yMbSiF-6FBs) by the Rotten Editor and released on youtube on 2022/8/28
 
 ## In-Jokes
 - Whiskey uses extensive emotes from these sources, several of which are in-jokes for the stream.
@@ -77,5 +81,5 @@ Chat is often encouraged to "gamba" their cheddar on predictions, often betting 
 - [Donation Link](https://streamlabs.com/whiskeyding0/tip)
 - [TikTok](https://www.tiktok.com/@whiskeyding0)
 
-[^1]: (https://twitter.com/Whiskey_Dingo/status/1174473493217513473)
-[^2]: (https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761)
+[^1]: [Twitch Partner Announcement](https://twitter.com/Whiskey_Dingo/status/1174473493217513473)
+[^2]: [Night in the Woods Stream Announcement](https://discord.com/channels/178042794386915328/498076901705908234/624411124082933761)

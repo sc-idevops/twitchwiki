@@ -10,11 +10,9 @@ permalink: cindercollie/
 - Timezone: Central Time (UTC-6)
 
 # About Streamer
-```
-Hi everybody! Cinder Collie here! I'm an ER nurse by day and a dog by night! I'm a Chicago dog who enjoys playing puzzle games!
+> Hi everybody! Cinder Collie here! I'm an ER nurse by day and a dog by night! I'm a Chicago dog who enjoys playing puzzle games!
 
-From time to time, I also enjoy teaching! I like teaching about the body and general medical/health issues!
-```
+> From time to time, I also enjoy teaching! I like teaching about the body and general medical/health issues!
 (Pulled from about section of https://www.twitch.tv/cindercollie on 2022/9/15)
 
 ## Special Scenes
