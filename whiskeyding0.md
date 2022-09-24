@@ -4,7 +4,7 @@ permalink: whiskeyding0/
 ---
 
 # [Whiskey Dingo](https://www.twitch.tv/whiskeyding0)
-~[icon](https://static-cdn.jtvnw.net/jtv_user_pictures/0fc32370-996d-429c-b7a3-69b9fb15ebb2-profile_image-70x70.png)
+![icon](https://static-cdn.jtvnw.net/jtv_user_pictures/0fc32370-996d-429c-b7a3-69b9fb15ebb2-profile_image-70x70.png)
 Whiskey is notable for his high energy, loud exclaimations, and frequent interaction with chat.
 - Timezone: Central Time (UTC-6)
 
