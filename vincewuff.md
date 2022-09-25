@@ -39,6 +39,12 @@ Timezone: Central Time (UTC-6)
 - Vince started streaming in (TODO)
 - He became a twitch partner in July 2020 [^1] 
 
+## Walking Dog
+In <year> Vince established his own record label with the express intent to create DRM free music that streamers can use as background sound. 
+As of 2022 it is available on many platforms including: Spotify, Youtube/Youtube Music, Apple Music, Deezer, Tidal, and Pandora. 
+They have released 17 Albums.  
+[The official website for walking dog](https://www.thewalkingdog.net/)
+
 ## Bit Alerts
 - 69 - Nice
 - 100 - Cheese Baby
