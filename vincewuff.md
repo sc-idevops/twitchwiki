@@ -11,10 +11,10 @@ On multiple occasions Vince has done charity streams, raising money for many dif
 - The Fastest Furs Charity Drive
 A full list of his charity events is available on [google drive](https://docs.google.com/spreadsheets/d/1WmcXkNjnn5P6Rp_dRa2sLPvPrZdOr1QINYeQmJD4LEc/)
 His subscriber group is refered to as "The Animal House" as is his discord.
-- Timezone: Central Time (UTC-6)
 
 ## About Section
 💜I'm a high school English teacher by trade, a part time fake animal (wolf), and a full time gamer nerd! Also, I'm a huge fan of powerlifting, but far from a muscle head. Check our my social media below to get to know me better!💜
+
 💜ARTIST RECOGNITION💜
 - Scenes by SashaPuppeh
 - Emotes/Badges by Buffpup
@@ -26,6 +26,7 @@ His subscriber group is refered to as "The Animal House" as is his discord.
 Part time【ENVTuber】Full time【Teacher】100%【Music Producer】 I'm just a guy (wolf) who wants to help my community with free music. 👉👉👉
 
 ### Schedule
+Timezone: Central Time (UTC-6)
 - Sunday: 12 PM (CST)
 - Mon: OFF
 - Tues: 5 PM (CST)
